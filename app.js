@@ -1,11 +1,4 @@
 
-/** 
-	app.js
-	@author: @rishabhio
-	@description: Implementing Simple Music Server using Express JS 
-	
-**/
-
 // import the modules required in our program
 var express = require('express');
 var fs = require('fs');
